@@ -1,0 +1,43 @@
+body{
+    background-image: url(https://news.microsoft.com/wp-content/uploads/prod/sites/61/2020/10/AzureSpace_Still_01.png);
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.418);
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.mainClimate{
+    margin-top: 5%;
+    background-color: rgba(92, 92, 92, 0.087);
+    width: 25vw;
+    height: 70vh;
+    border-radius: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #FFF;
+    text-align: center;
+}
+
+.browserLeft{
+    position: absolute;
+    background-color: rgba(31, 34, 199, 0.26);
+    width: 80px;
+    height: 100vh;    
+}
+a{
+    color: #FFF;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    padding-right: 15px;
+}
+ul{
+    padding-top: 25px;
+    padding-left: 20px;
+    list-style: none;
+}
