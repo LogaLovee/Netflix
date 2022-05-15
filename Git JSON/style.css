@@ -1,0 +1,44 @@
+body{
+    margin-top: 0%;
+    background-color: #21262df8;
+}
+nav{
+    background-color: #162131;
+    width: 100vw;
+    height: 100px;
+}
+nav img{
+    height: 50px;
+    width: 50px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.nickname{
+    background-color: #162131;;
+    width: 400px;
+    height: 600px;
+}
+.avatar{
+    background-color:#162131;
+    width: 400px;
+    height: 600px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.URLprofile{
+    background-color:#162131;;
+    width: 400px;
+    height: 600px;   
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+.search{
+    margin-top: 50px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+}

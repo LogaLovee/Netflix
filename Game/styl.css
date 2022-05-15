@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+}
+header h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+header{
+    background-color: rgba(22, 18, 18, 0.849);
+    padding: 15px;
+}
+.culebra{
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+}
+.food{
+    background-color: azure;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+}
